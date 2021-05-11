@@ -1,0 +1,6 @@
+.main{
+    max-width: 582px;
+    min-height: 817px;
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr;
+}
