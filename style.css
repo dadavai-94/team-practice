@@ -1,6 +1,38 @@
+body{
+    margin: 0px;
+
+}
 .main{
     max-width: 582px;
     min-height: 817px;
     display: grid;
     grid-template: 1fr 1fr / 1fr 1fr;
+}
+.main__house_orange{
+    width: 226px;
+    height: 337px;
+    margin-left: 29px;
+    margin-top: 42px;
+}
+.main__house{
+    border: 1px solid black;
+}
+.main__house_pink{
+    width: 217px;
+    height: 380px;
+    margin-left: 42px;
+    margin-top: -1px;
+}
+.main__house_green{
+    width: 260px;
+    height: 289px;
+    margin-top: 117px;
+    margin-left: -1px;
+}
+.main__house_blue{
+    width: 247px;
+    height: 351px;
+    margin-top: 55px;
+    margin-left: auto;
+    margin-right: -1px;
 }
